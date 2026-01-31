@@ -1,0 +1,2 @@
+n_bicliques max_size avg_size
+120.59 79.69 7.93307
